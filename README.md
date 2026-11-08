@@ -23,6 +23,9 @@ Download the `.deb` installer from the Assets section and run:
 sudo apt install ./drin_0.3.0_amd64.deb
 ```
 
+## Compiling from Source
+Check the Guide over [HERE](https://github.com/RobloxGuest12/drin?tab=contributing-ov-file#4-building-drin)
+
 ## Requirements
 - Ubuntu (Or any Debian-based Distro)
 - APT
