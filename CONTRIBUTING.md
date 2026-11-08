@@ -192,7 +192,7 @@ Potential areas for future development include:
 
 ## 12\. License
 
-By contributing to DRin, you agree that your contributions will be distributed under the project's **GPL-3.0-only** license.
+By contributing to DRin, you agree that your contributions will be distributed under the project's **GPL-3.0** license.
 
 See the `LICENSE` file for the complete license text.
 
